@@ -12,27 +12,36 @@ skins = {
         "Red": {
             "Cost": 250,
             "Name": "Red",
-            "Tower": "Scout",
+            "Type": "Scout",
         },
         "Pink": {
             "Cost": 500,
             "Name": "Pink",
             "Tower": "Scout",
+            "Type": "Cool"
         },
         "Black": {
             "Cost": 500,
             "Name": "Black",
             "Tower": "Scout",
+            "Type": "Cool",
         },
         "Cowboy": {
             "Cost": 1000,
             "Name": "Cowboy",
             "Tower": "Scout",
+            "Type": "Epic",
         },
         #"Miku": {
         #    "Cost": 0,
         #    "Name": "Miku",
         #    "Tower": "Scout",
+        #},
+        #"3D Legacy": {
+        #    "Cost": 5000,
+        #    "Name": "3D Legacy",
+        #    "Tower": "Scout",
+        #    "Type": "Legendary",
         #}
     },
     "Employee": {
@@ -40,8 +49,9 @@ skins = {
             "Cost": 1000,
             "Name": "Farm",
             "Tower": "Employee",
+            "Type": "Epic"
         }
-    }
+    },
 }
 
 # Stores the current daily shop
