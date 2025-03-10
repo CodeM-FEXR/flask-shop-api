@@ -12,7 +12,8 @@ skins = {
         "Red": {
             "Cost": 250,
             "Name": "Red",
-            "Type": "Scout",
+            "Tower": "Scout",
+            "Type": "Cool",
         },
         "Pink": {
             "Cost": 500,
